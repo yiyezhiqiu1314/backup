@@ -2,6 +2,39 @@
   "appConfig": {
     "appName": "课堂反馈助手",
     "version": "2.0.0",
-    "backupAt": "2026-08-24T14:25:00.105Z"
-  }
+    "backupAt": "2026-08-24T14:34:01.232Z"
+  },
+  "authState": {
+    "registeredUsers": [
+      {
+        "id": "user_admin",
+        "name": "超级管理员",
+        "username": "admin",
+        "email": "admin@admin.com",
+        "password": "admin@123",
+        "createdAt": 1787581972417,
+        "role": "admin"
+      }
+    ],
+    "isLoggedIn": true,
+    "user": {
+      "id": "user_admin",
+      "name": "超级管理员",
+      "username": "admin",
+      "email": "admin@admin.com",
+      "password": "admin@123",
+      "createdAt": 1787581972417,
+      "role": "admin"
+    },
+    "rememberedCredential": {
+      "account": "admin",
+      "mode": "username",
+      "password": "admin@123",
+      "username": "admin",
+      "email": "admin@admin.com"
+    },
+    "loginMode": "username"
+  },
+  "syncConfig": {},
+  "mailService": {}
 }
